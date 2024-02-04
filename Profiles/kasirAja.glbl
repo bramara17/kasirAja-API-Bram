@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>kasirAja</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjEyNjBjNGU5LTcwMWUtNGFlZi04YjM0LTY3MDY5MjIzNzdjNyIsImNvbXBhbnlJZCI6IjJlNDcxNTVmLWNiNjAtNDRmZi1hYzYwLTI4NGFiMWY3MGFiMSIsImlhdCI6MTcwNzAwOTc2M30.n-VGov-qG6pkr7CGGqajq-_4CjbQqWjav3GexCidlYc'</initValue>
+      <name>accessTokenKasirAja</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>refreshTokenKasirAja</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://kasir-api.belajarqa.com'</initValue>
+      <name>baseURLKasirAja</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'budi.store@mail.id'</initValue>
+      <name>email1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'budiStore1234'</initValue>
+      <name>pswd1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'0a18bd55-70de-4205-8259-8d6d49d5a552'</initValue>
+      <name>idUserKasirAja</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'bunga.edit@budistore.id'</initValue>
+      <name>emailUserKasirAja</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Bunga Sa katalon'</initValue>
+      <name>namaUserKasirAja</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
